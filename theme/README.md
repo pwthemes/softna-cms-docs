@@ -2,9 +2,9 @@
 
 Theme folder is our main playground, here we can add custom less/css and load custom scripts. This folder is never replaced during the updates, so it's a right place for you custom style.
 
-::: tip Add Custom Scripts
-Use `loadJS(my_script.js)` function in ***theme.php*** to add custom scripts.    
-Use `loadCSS(my_style.css)` function in ***theme.php*** to add custom css files.
+::: tip Add Custom Scripts (theme.php)
+`loadJS(my_script.js)` to add custom script.    
+`loadCSS(my_style.css)` to add custom css file.
 :::
 
 ### ***_theme.less***    
