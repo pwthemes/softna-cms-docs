@@ -36,8 +36,6 @@ In many cases custom less/css code is not needed, a lot of customizations can be
 
 ## Scoped Classes
 
-When creating new html elements, we are trying to be consistent and use descriptive and sematic css class names.   
-
 When we want to create a new html element with a "generic" design, we use class names with the     
 `.tm-css-*` prefix, so we can later target dose selectors and add custom style, eg:    
 
