@@ -1,5 +1,5 @@
 module.exports = {
-    title: 'Softna CMS Docs',
+    title: 'Softna CMS',
     description: 'Softna CMS documenatation, guidelines & tutorials',
     base: "/",
 	head: [
