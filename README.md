@@ -4,7 +4,7 @@ title: 'Softna CMS Docs'
 
 ![softna logo](./_assets/logo-dark.png)
 
-# Softna CMS  
+<h1 class="softna-font">Softna CMS</h1>  
 
 Softna CMS is theme framework & site builder, based on processwire CMF and UIkit front-end framework. It's very flexible and easy to use, comes with uniqe layout system, customizer and many more features to help you build websites with ease.
 
