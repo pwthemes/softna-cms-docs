@@ -11,11 +11,11 @@ Create new widgets and pages layouts, directly from layout manager.
 
 On the layout manager page, each element have the edit button, hit this button to check available layouts and to create new ones.  
 
-![](./../_assets/layouts-1.png)
+![](./../../_assets/layouts-1.png)
 
 On the layout edit page you can click on a layout title to edit it (*rename, change/add preview image*), or you can use the form to add new layouts for this element.
 
-![](./../_assets/layouts-2.png)
+![](./../../_assets/layouts-2.png)
 
 
 

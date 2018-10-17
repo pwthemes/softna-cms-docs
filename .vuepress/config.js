@@ -12,29 +12,37 @@ module.exports = {
             { text: 'softna.com', link: 'http://softna.com' },
             { text: 'pwthemes.com', link: 'http://pwthemes.com' },
         ],
+        
+        sidebar: [
 
-        sidebar: {
+            ['/', 'Intro'],
 
-            // if u ned sidebar for specific item only
-            // add it like this (before main sidebar)
+            // BASIC 
+            {
+                title: 'Basics',
+                collapsable: true,
+                children: [
+                   // '/'
+                ]
+            },
 
-            /*
-            '/basics/': [
-                '',
-            ],
-            */
+            // ADVANCED
+            {
+                title: 'Advanced',
+                collapsable: true,
+                children: [
+                    ['/advanced/', 'Folder Structure'],
+                    ['/advanced/theme/', 'Theme Folder'],
+                    ['/advanced/less/', 'Less'],
+                    ['/advanced/layouts/', 'Layouts'],
+                    ['/advanced/widgets/', 'Widgets'],
+                ]
+            },
 
-            // main page fallback, must be last
-            '/': [
-                ['/', 'Intro'],
-                ['/start/', 'Getting Started'],
-                ['/basics/', 'Basics'],
-                ['/theme/', 'Theme'],
-                ['/less/', 'Less'],
-                ['/layouts/', 'Layouts'],
-                ['/widgets/', 'Widgets']
-            ],
-        }
+            // GUIDELINES
+            ['/guidelines/', 'Guidelines'],
+
+        ]
 
     }
 }

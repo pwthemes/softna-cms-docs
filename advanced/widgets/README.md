@@ -42,7 +42,7 @@ Go to layout manager page (dropdown menu on top right), and then click on ***+Ne
 Select item type (widgets), enter title (title needs to be the same as template name) and that's it.   
 This will add your new widget to the layout manager.
 
-![](./../_assets/Add-widget-to-the-layout-manager.png)
+![](./../../_assets/Add-widget-to-the-layout-manager.png)
 
 
 

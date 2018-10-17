@@ -1,4 +1,4 @@
-## Less Styling
+# Less
 All your custom less code should be located inside ***/theme/less/*** folder.    
 
 When creating theme, it's very important to **NEVER hardcode** css property values, **especially colors**. Always use variables from ***_var.less***. There are variable for everything: colors, fonts, spaces, borders, utility... So please use them...
